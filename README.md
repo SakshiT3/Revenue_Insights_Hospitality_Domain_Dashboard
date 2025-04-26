@@ -4,13 +4,12 @@ This project showcases a Power BI dashboard designed to provide deep revenue and
 
 #### 📊 About the Dashboard:
 This dashboard enables hospitality businesses (hotels, resorts, etc.) to:
-
-=> Monitor total Revenue, RevPAR, DSRN, Occupancy Rate, ADR, and Realization %.
-=> Analyze performance trends across cities, room types, and booking platforms.
-=> Visualize occupancy distribution across business and luxury categories.
-=> Track weekly and monthly revenue trends.
-=> Compare key metrics like RevPAR, ADR, and Occupancy % over time.
-=> Dive into property-level performance with key metrics including cancellation rates.
+Monitor total Revenue, RevPAR, DSRN, Occupancy Rate, ADR, and Realization %.
+Analyze performance trends across cities, room types, and booking platforms.
+Visualize occupancy distribution across business and luxury categories.
+Track weekly and monthly revenue trends.
+Compare key metrics like RevPAR, ADR, and Occupancy % over time.
+Dive into property-level performance with key metrics including cancellation rates.
 
 #### ✨ Key Features: 
   Dynamic Filters: By city, room type, booking platform, month, and week number.
