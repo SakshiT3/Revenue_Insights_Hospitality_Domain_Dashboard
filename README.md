@@ -2,8 +2,9 @@
 Welcome to the Hospitality Revenue Insights Dashboard repository!
 This project showcases a Power BI dashboard designed to provide deep revenue and performance insights specifically for the hospitality sector.
 
-#### 📊 About the Dashboard:
+#### 📊 About the Dashboard
 This dashboard enables hospitality businesses (hotels, resorts, etc.) to:
+
 Monitor total Revenue, RevPAR, DSRN, Occupancy Rate, ADR, and Realization %.
 Analyze performance trends across cities, room types, and booking platforms.
 Visualize occupancy distribution across business and luxury categories.
@@ -11,7 +12,7 @@ Track weekly and monthly revenue trends.
 Compare key metrics like RevPAR, ADR, and Occupancy % over time.
 Dive into property-level performance with key metrics including cancellation rates.
 
-#### ✨ Key Features: 
+#### ✨ Key Features
   Dynamic Filters: By city, room type, booking platform, month, and week number.
   KPIs Overview: Real-time metrics for revenue and realization performance.
   Category Analysis: Occupancy split between business and luxury categories.
@@ -21,7 +22,7 @@ Dive into property-level performance with key metrics including cancellation rat
   Weekend vs Weekday Analysis: Comparison of major metrics by day type.
 
 
-#### 🛠 Tools & Technologies Used: 
+#### 🛠 Tools & Technologies Used
 Power BI Desktop
 Power Query (Data Transformation)
 DAX (Data Analysis Expressions)
